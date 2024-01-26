@@ -42,5 +42,5 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/fZpHr/count.svg" />
 </p>
-<img align="left" alt="My Github Stats" src="https://vercel-git-main-fzphrs-projects.vercel.app/api?username=fZpHr&count_private=true&show_icons=true&hide_border=true&theme=dracula" />
-<img align="left" alt="My Top languages used" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fZpHr&hide_border=true&theme=dracula" />
+<img align="left" alt="My Github Stats" src="https://vercel-fzphrs-projects.vercel.app/api?username=fZpHr&count_private=true&show_icons=true&hide_border=true&theme=dracula" />
+<img align="left" alt="My Top languages used" src="https://vercel-fzphrs-projects.vercel.app/api/top-langs/?username=fZpHr&hide_border=true&theme=dracula" />
