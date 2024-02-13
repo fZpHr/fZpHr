@@ -3,7 +3,9 @@
 </div> 
 
 <br>
+<div align="center">
 <a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clskkzskd240401p47fyvblvc/stats?cursusId=21&coalitionId=220" alt="hbelle's 42 stats" /></a>
+</div> 
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fZpHr&theme=discord&margin-w=60&no-bg=true&no-frame=true)](https://github.com/fZpHr)
