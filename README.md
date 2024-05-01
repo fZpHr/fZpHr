@@ -1,6 +1,6 @@
 <br>
 <div align="center">
-<a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clskkzskd240401p47fyvblvc/stats?cursusId=21&coalitionId=220" alt="hbelle's 42 stats" /></a>
+<a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clskkzskd240401p47fyvblvc/stats?cursusId=21&coalitionId=220" alt="42 stats" /></a>
 </div> 
 
 
