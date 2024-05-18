@@ -1,6 +1,7 @@
 <br>
 <div align="center">
-<a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clskkzskd240401p47fyvblvc/stats?cursusId=21&coalitionId=220" alt="42 stats" /></a>
+![6a20856db4ca5c1ea0c03c32790d66876c1fbf9a (2)](https://github.com/fZpHr/fZpHr/assets/92046611/9c7b1cb8-fc4c-44c8-9ebb-41377ad1d659)
+
 </div> 
 
 
