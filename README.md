@@ -3,6 +3,7 @@
 ## Hi, I am currently learning to code at 42, a programming school.
 
 </div>
+
 ![d](https://github.com/fZpHr/fZpHr/assets/92046611/9c7b1cb8-fc4c-44c8-9ebb-41377ad1d659)
 
 
