@@ -1,8 +1,6 @@
-<br>
-<div align="center">
-![6a20856db4ca5c1ea0c03c32790d66876c1fbf9a (2)](https://github.com/fZpHr/fZpHr/assets/92046611/9c7b1cb8-fc4c-44c8-9ebb-41377ad1d659)
+## Hi, I am currently learning to code at 42, a programming school. 
+![d](https://github.com/fZpHr/fZpHr/assets/92046611/9c7b1cb8-fc4c-44c8-9ebb-41377ad1d659)
 
-</div> 
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fZpHr&theme=discord&margin-w=60&no-bg=true&no-frame=true)](https://github.com/fZpHr)
