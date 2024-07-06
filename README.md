@@ -1,14 +1,10 @@
 <div align="center">
 
-## Hi, I am currently learning to code at 42, a programming school.
-
+ # Hi, I am currently learning to code at 42, a programming school.
+<img align="left" alt="My Github Stats" src="https://vercel-fzphrs-projects.vercel.app/api?username=fZpHr&exclude_repo=vercel,crt,tofast,42eval&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
+<img align="left" alt="My Top languages used" src="https://vercel-fzphrs-projects.vercel.app/api/top-langs/?username=fZpHr&exclude_repo=vercel,crt,tofast,ft_transcendence_42&hide_border=true&theme=tokyonight" />
 </div>
-
-![d](https://github.com/fZpHr/fZpHr/assets/92046611/9c7b1cb8-fc4c-44c8-9ebb-41377ad1d659)
-
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=fZpHr&theme=discord&margin-w=60&no-bg=true&no-frame=true)](https://github.com/fZpHr)
+<br clear="left"/>
 
 ## Programming languages:
 
@@ -39,9 +35,9 @@
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/fZpHr/count.svg" />
-</p>
-<img align="left" alt="My Github Stats" src="https://vercel-fzphrs-projects.vercel.app/api?username=fZpHr&exclude_repo=vercel,crt,tofast,42eval&count_private=true&show_icons=true&hide_border=true&theme=dracula" />
-<img align="left" alt="My Top languages used" src="https://vercel-fzphrs-projects.vercel.app/api/top-langs/?username=fZpHr&exclude_repo=vercel,crt,tofast,ft_transcendence_42&hide_border=true&theme=dracula" />
+
+<br clear="left"/>
+<br clear="left"/>
+Visitor count
+<br clear="left"/>
+<img src="https://profile-counter.glitch.me/fZpHr/count.svg" />
