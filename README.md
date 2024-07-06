@@ -1,9 +1,9 @@
 <div align="center">
 
  # Hi, I am currently learning to code at 42, a programming school.
-<img align="left" alt="My Github Stats" src="https://vercel-fzphrs-projects.vercel.app/api?username=fZpHr&exclude_repo=vercel,crt,tofast,42eval&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
-<img align="left" alt="My Top languages used" src="https://vercel-fzphrs-projects.vercel.app/api/top-langs/?username=fZpHr&exclude_repo=vercel,crt,tofast,ft_transcendence_42&hide_border=true&theme=tokyonight" />
-</div>
+<img align="center" alt="My Github Stats" src="https://vercel-fzphrs-projects.vercel.app/api?username=fZpHr&exclude_repo=vercel,crt,tofast,42eval&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
+<img align="center" alt="My Top languages used" src="https://vercel-fzphrs-projects.vercel.app/api/top-langs/?username=fZpHr&exclude_repo=vercel,crt,tofast,ft_transcendence_42&hide_border=true&theme=tokyonight" />
+
 <br clear="left"/>
 
 ## Programming languages:
@@ -41,3 +41,5 @@
 Visitor count
 <br clear="left"/>
 <img src="https://profile-counter.glitch.me/fZpHr/count.svg" />
+
+</div>
