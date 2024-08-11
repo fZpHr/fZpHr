@@ -27,6 +27,8 @@
   [<img alt="github" width="50px" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg"/>](https://github.com/)
   [<img alt="vim" width="50px" src="https://iconape.com/wp-content/files/lf/371610/svg/371610.svg"/>]([https://git-scm.com/](https://www.vim.org/))
   [<img alt="vscode" width="50px" src="https://i.imgur.com/A9ytwO6.png"/>](https://code.visualstudio.com/)
+  [<img alt="docker" width="200px" src="https://i.imgur.com/Le3lkh6.png"/>](https://www.docker.com/)
+
 
 ## OS:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
