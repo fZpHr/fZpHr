@@ -20,7 +20,7 @@
 ![JS](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
+![ASSEMBLY](https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the-badge)
 
 ## Programming Tools:
 
@@ -28,6 +28,7 @@
   [<img alt="vim" width="50px" src="https://iconape.com/wp-content/files/lf/371610/svg/371610.svg"/>]([https://git-scm.com/](https://www.vim.org/))
   [<img alt="vscode" width="50px" src="https://i.imgur.com/A9ytwO6.png"/>](https://code.visualstudio.com/)
   [<img alt="docker" width="200px" src="https://i.imgur.com/Le3lkh6.png"/>](https://www.docker.com/)
+  [<img alt="vagrant" width="75px" src="https://xavki.blog/wp-content/uploads/2021/10/vagrant-logo.png"/>](https://www.vagrantup.com/)
 
 
 ## OS:
@@ -36,15 +37,5 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
-
-## Profile Cyber Links:
-
-   <a href="https://tryhackme.com/p/ZephFR"><img width="150px" src="https://assets.tryhackme.com/img/THMlogo.png"></img></a>
- <a href="https://app.hackthebox.com/profile/2064082"><img width="200px" src="https://app.hackthebox.com/images/logos/logo-htb.svg"></img></a>
-<br clear="left"/>
-<br clear="left"/>
-Visitor count
-<br clear="left"/>
-<img src="https://profile-counter.glitch.me/fZpHr/count.svg" />
 
 </div>
