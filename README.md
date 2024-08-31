@@ -37,10 +37,6 @@
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 
-
-
-
-
 ## Profile Cyber Links:
 
    <a href="https://tryhackme.com/p/ZephFR"><img width="150px" src="https://assets.tryhackme.com/img/THMlogo.png"></img></a>
