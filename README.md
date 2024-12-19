@@ -22,14 +22,16 @@
 ![PYTHON](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![ASSEMBLY](https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the-badge)
 ![Rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=orange)
+![GodotScript](https://img.shields.io/badge/godot-v4.0-blue?style=for-the-badge)
 
 ## Programming Tools:
 
   [<img alt="github" width="50px" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg"/>](https://github.com/)
   [<img alt="vim" width="50px" src="https://iconape.com/wp-content/files/lf/371610/svg/371610.svg"/>]([https://git-scm.com/](https://www.vim.org/))
   [<img alt="vscode" width="50px" src="https://i.imgur.com/A9ytwO6.png"/>](https://code.visualstudio.com/)
-  [<img alt="docker" width="200px" src="https://i.imgur.com/Le3lkh6.png"/>](https://www.docker.com/)
-  [<img alt="vagrant" width="75px" src="https://xavki.blog/wp-content/uploads/2021/10/vagrant-logo.png"/>](https://www.vagrantup.com/)
+[<img alt="Docker" width="85px" src="https://imgur.com/lRcxXu8.png"/>](https://www.docker.com/)&nbsp;
+[<img alt="Vagrant" width="50px" src="https://seeklogo.com/images/V/vagrant-logo-B214F47636-seeklogo.com.png"/>](https://www.vagrantup.com/)  &nbsp;
+[<img alt="Godot" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg"/>](https://godotengine.org/) &nbsp;
 
 
 ## OS:
