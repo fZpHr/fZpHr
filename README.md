@@ -2,7 +2,7 @@
 
  # Hi, I am currently learning to code at 42, a programming school.
 <img align="center" alt="My Github Stats" src="https://vercel-fzphrs-projects.vercel.app/api?username=fZpHr&count_private=true&show_icons=true&hide_border=true&theme=nightowl" />
-<img align="center" alt="My Top languages used" src="https://vercel-fzphrs-projects.vercel.app/api/top-langs/?username=fZpHr&exclude_repo=vercel,crt,tofast,ft_transcendence_42_archived,BADASS_42,moon_seed,serveur_auth_42_correct&hide_border=true&theme=nightowl" />
+<img align="center" alt="My Top languages used" src="https://vercel-fzphrs-projects.vercel.app/api/top-langs/?username=fZpHr&exclude_repo=vercel,crt,tofast,ft_transcendence_42_archived,BADASS_42,moon_seed&hide_border=true&theme=nightowl" />
 
 <br clear="left"/>
 
