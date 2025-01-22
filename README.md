@@ -30,7 +30,7 @@
   [<img alt="vim" width="50px" src="https://iconape.com/wp-content/files/lf/371610/svg/371610.svg"/>]([https://git-scm.com/](https://www.vim.org/))
   [<img alt="vscode" width="50px" src="https://i.imgur.com/A9ytwO6.png"/>](https://code.visualstudio.com/)
 [<img alt="Docker" width="85px" src="https://imgur.com/lRcxXu8.png"/>](https://www.docker.com/)&nbsp;
-[<img alt="Vagrant" width="50px" src="https://seeklogo.com/images/V/vagrant-logo-B214F47636-seeklogo.com.png"/>](https://www.vagrantup.com/)  &nbsp;
+[<img alt="Vagrant" width="50px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/vagrant_original_logo_icon_146314.png"/>](https://www.vagrantup.com/)  &nbsp;
 [<img alt="Godot" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg"/>](https://godotengine.org/) &nbsp;
 
 
