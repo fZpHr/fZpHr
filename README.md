@@ -1,6 +1,6 @@
 <div align="center">
 
- # Hi, I’m currently an engineering apprentice at Ampere Soft Technology, and I’m studying programming at 42.
+# Hi, I’m currently an R&D Engineering apprentice at Ampere Soft Technology, and I’m studying low-level systems, networking, and programming at 42.
 <img align="center" alt="My Github Stats" src="https://vercel-fzphrs-projects.vercel.app/api?username=fZpHr&count_private=true&show_icons=true&hide_border=true&theme=nightowl" />
 <img align="center" alt="My Top languages used" src="https://vercel-fzphrs-projects.vercel.app/api/top-langs/?username=fZpHr&exclude_repo=vercel,crt,tofast,ft_transcendence_42_archived,BADASS_42,moon_seed,freddie-mercury_42&hide_border=true&theme=nightowl" />
 
