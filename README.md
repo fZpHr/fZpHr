@@ -1,9 +1,5 @@
 <div align="center">
-<div>
-  <img style="150%" src="https://capsule-render.vercel.app/api?type=waving&height=108&section=header&reversal=false&fontSize=100&fontColor=FFFFFF&fontAlign=50&fontAlignY=500&stroke=FFFFFF&strokeWidth=100&animation=blinking&descSize=100&descAlign=500&descAlignY=50&textBg=false&color=gradient"  />
-</div>
 
-###
 
 ###
 # Hi, I’m currently an R&D Engineering apprentice at Ampere Soft Technology, and I’m studying low-level systems, networking, and programming at 42
@@ -22,7 +18,5 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fZpHr/fZpHr/output/pacman-contribution-graph.svg">
 </picture>
 <p align="mid"> <img src="https://komarev.com/ghpvc/?username=fzphr&label=Profile%20views&color=0e75b6&style=flat" alt="fzphr" /> </p>
-<div>
-  <img style="150%" src="https://capsule-render.vercel.app/api?type=waving&height=108&section=footer&reversal=false&fontSize=100&fontColor=FFFFFF&fontAlign=50&fontAlignY=500&stroke=FFFFFF&strokeWidth=100&animation=blinking&descSize=100&descAlign=500&descAlignY=50&textBg=false&color=gradient"  />
-</div>
+
 </div>
