@@ -2,8 +2,6 @@
 
 ## Exploitation and reverse
 
-Hands-on exploitation and privilege escalation, done without tooling shortcuts.
-
 - [Override](https://github.com/fZpHr/override_42): ten setuid binaries,
   escalated with stack and heap overflows, format strings, GOT overwrite,
   ret2libc, shellcoding, and a `ptrace` anti-debug bypass. x86 32/64-bit.
