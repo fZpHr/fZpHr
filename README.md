@@ -1,6 +1,4 @@
-# fZpHr
-
-42 student and R&D engineering apprentice at Renault.
+# 42 student and R&D engineering apprentice at Renault.
 
 ## Exploitation and reverse
 
