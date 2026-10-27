@@ -1,23 +1,51 @@
-# Hi
+# fZpHr
 
-42 student and R&D engineering apprentice at Renault. I work close to the
-machine: binary exploitation, reverse engineering, Linux systems and network
-infrastructure, from 42 coursework and personal projects.
+42 student and R&D engineering apprentice at Renault.
 
-## Security
+## Exploitation and reverse
 
-Binary exploitation, reverse engineering and security tooling.
-See [Cybersecurity](https://github.com/fZpHr/Cybersecurity) for the full index.
+Hands-on exploitation and privilege escalation, done without tooling shortcuts.
 
-- [Kintsugi](https://github.com/fZpHr/Kintsugi): self-hosted multi-decompiler
-  explorer that runs several decompilers on a binary and merges their output
-  into a single annotated C listing with an LLM. Django + Docker.
-- [CTF](https://github.com/fZpHr/CTF): a multi-stage CTF I designed and
-  deployed (web, privilege escalation, forensics, network).
-- [Override](https://github.com/fZpHr/override_42) /
-  [Rainfall](https://github.com/fZpHr/rainfall_42) /
-  [SnowCrash](https://github.com/fZpHr/snow-crash_42): exploitation and
-  privilege-escalation wargames.
+- [Override](https://github.com/fZpHr/override_42): ten setuid binaries,
+  escalated with stack and heap overflows, format strings, GOT overwrite,
+  ret2libc, shellcoding, and a `ptrace` anti-debug bypass. x86 32/64-bit.
+- [Rainfall](https://github.com/fZpHr/rainfall_42): a second exploitation
+  wargame (overflows, format strings, integer overflows, heap abuse) on 32-bit.
+- [SnowCrash](https://github.com/fZpHr/snow-crash_42): Linux wargame covering
+  SUID abuse, cron, pcap analysis and small-binary reversing.
+- [Darkly](https://github.com/fZpHr/darkly_42): web-security wargame. Found and
+  exploited the flaws of a deliberately vulnerable site: SQL injection, path
+  traversal, request tampering / IDOR, brute force, weak cookie hashing, and
+  open redirect.
+- [CTF: La Quete du Stagiaire](https://github.com/fZpHr/CTF): a multi-stage CTF
+  I designed and deployed end to end (web recon, SSH, privilege escalation via
+  a sudoedit CVE, cleartext sniffing). Vulnerable services behind nginx,
+  orchestrated with Docker Compose.
+
+## Security tooling
+
+- [Kintsugi](https://github.com/fZpHr/Kintsugi): a fork of Decompiler Explorer
+  (dogbolt.org) on top of which I built the analysis layer. It runs several
+  decompilers on a binary, then merges their output function by function with
+  an LLM, keeping every line traceable to the decompiler it came from, and a
+  second pass annotates the result and flags likely vulnerabilities. The work
+  is the pipeline: multi-provider LLM integration, async jobs, token budgeting.
+  Django + Docker. The decompiler understanding is the model's; the engineering
+  around it is mine.
+
+See [Cybersecurity](https://github.com/fZpHr/Cybersecurity) for the full index
+and per-level writeups.
+
+## Low-level and systems programming
+
+- [kfs-1](https://github.com/fZpHr/kfs-1_42): a bootable x86 kernel written
+  from scratch (multiboot, VGA text output, basic I/O). C and assembly.
+- [libasm](https://github.com/fZpHr/libasm_42): a subset of the C standard
+  library reimplemented in x86-64 assembly.
+- [minishell](https://github.com/fZpHr/minishell_42): a Unix shell in C
+  (parsing, pipes, redirections, environment expansion, signals, builtins).
+- [ft_irc](https://github.com/fZpHr/ft_irc_42): an IRC server in C++
+  (non-blocking sockets, multiple clients, channels, operators).
 
 ## Systems and infrastructure
 
@@ -26,7 +54,7 @@ See [Cybersecurity](https://github.com/fZpHr/Cybersecurity) for the full index.
 - [cloud-1](https://github.com/fZpHr/cloud-1_42): Docker stack deployed with
   Ansible on a cloud instance.
 - [BADASS](https://github.com/fZpHr/BADASS_42): BGP EVPN network simulated in
-  GNS3.
+  GNS3 with FRRouting.
 - [Windows / AD administration](https://github.com/fZpHr/PowerShell):
   Active Directory provisioning with PowerShell.
 
