@@ -1,25 +1,45 @@
-<div align="center">
+# Hi
 
+42 student and R&D engineering apprentice at Renault. I work close to the
+machine: binary exploitation, reverse engineering, Linux systems and network
+infrastructure, from 42 coursework and personal projects.
 
-###
-# Hi, I’m currently an R&D Engineering apprentice at Renault (Ampere Soft Technology), and I’m studying low-level systems, networking, and programming at 42
+## Security
 
-<img align="center" alt="My Github Stats" src="https://vercel-fzphrs-projects.vercel.app/api?username=fZpHr&count_private=true&show_icons=true&hide_border=true&theme=nightowl" />
-<img align="center" alt="My Top languages used" src="https://vercel-fzphrs-projects.vercel.app/api/top-langs/?username=fZpHr&exclude_repo=vercel,crt,tofast,ft_transcendence_42_archived,BADASS_42,moon_seed,freddie-mercury_42,v0-filter-by-campus,container_on_android,podman&hide_border=true&theme=nightowl" />
+Binary exploitation, reverse engineering and security tooling.
+See [Cybersecurity](https://github.com/fZpHr/Cybersecurity) for the full index.
 
-<br clear="left"/>
+- [Kintsugi](https://github.com/fZpHr/Kintsugi): self-hosted multi-decompiler
+  explorer that runs several decompilers on a binary and merges their output
+  into a single annotated C listing with an LLM. Django + Docker.
+- [CTF](https://github.com/fZpHr/CTF): a multi-stage CTF I designed and
+  deployed (web, privilege escalation, forensics, network).
+- [Override](https://github.com/fZpHr/override_42) /
+  [Rainfall](https://github.com/fZpHr/rainfall_42) /
+  [SnowCrash](https://github.com/fZpHr/snow-crash_42): exploitation and
+  privilege-escalation wargames.
 
+## Systems and infrastructure
+
+- [Inception of Things](https://github.com/fZpHr/inception-of-things_42):
+  K3s / K3d, Vagrant, GitOps.
+- [cloud-1](https://github.com/fZpHr/cloud-1_42): Docker stack deployed with
+  Ansible on a cloud instance.
+- [BADASS](https://github.com/fZpHr/BADASS_42): BGP EVPN network simulated in
+  GNS3.
+- [Windows / AD administration](https://github.com/fZpHr/PowerShell):
+  Active Directory provisioning with PowerShell.
+
+## Web
+
+- [42insight](https://github.com/fZpHr/42insight): a platform centralizing
+  tools and resources for 42 students (rankings, RNCP simulator, and more).
+
+## Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,aws,bash,c,cpp,css,django,docker,elasticsearch,git,grafana,html,js,kubernetes,linux,mongodb,mysql,nextjs,nginx,nodejs,ps,postgres,python,pytorch,react,redis,rust,scala,sqlite,tailwind,ts,unity,v,vue&perline=12" alt="Grille de compétences" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,docker,kubernetes,nginx,django,postgres,git,ts&perline=12" alt="Stack" />
 </p>
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fZpHr/fZpHr/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fZpHr/fZpHr/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fZpHr/fZpHr/output/pacman-contribution-graph.svg">
-</picture>
-<p align="mid"> <img src="https://komarev.com/ghpvc/?username=fzphr&label=Profile%20views&color=0e75b6&style=flat" alt="fzphr" /> </p>
-
-</div>
+C / C++, x86 assembly, Python, Bash. Linux, Docker, Kubernetes, Ansible,
+networking. Reverse engineering with Ghidra and gdb.
