@@ -53,8 +53,6 @@ and per-level writeups.
   K3s / K3d, Vagrant, GitOps.
 - [cloud-1](https://github.com/fZpHr/cloud-1_42): Docker stack deployed with
   Ansible on a cloud instance.
-- [BADASS](https://github.com/fZpHr/BADASS_42): BGP EVPN network simulated in
-  GNS3 with FRRouting.
 - [Windows / AD administration](https://github.com/fZpHr/PowerShell):
   Active Directory provisioning with PowerShell.
 
