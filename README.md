@@ -17,6 +17,10 @@
   I designed and deployed end to end (web recon, SSH, privilege escalation via
   a sudoedit CVE, cleartext sniffing). Vulnerable services behind nginx,
   orchestrated with Docker Compose.
+- [fuzzing-vr](https://github.com/fZpHr/fuzzing-vr): vulnerability research
+  through fuzzing with AFL++ and libFuzzer. Rediscovered CVE-2019-13288 (Xpdf
+  stack exhaustion) and reproduced CVE-2018-6003 (libtasn1 BER recursion) with
+  custom libFuzzer harnesses and a structure-aware mutator.
 
 ## Security tooling
 
